@@ -1,0 +1,19 @@
+{
+  "name": "experimental-mrt-timings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test_mrt_timings.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "jsdom": "^11.5.1",
+    "request": "^2.83.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
